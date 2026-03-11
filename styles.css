@@ -195,7 +195,7 @@
   }
   
   .hero-image img {
-    width: auto;
+    width: 600px;
     height: 500px;
     object-fit: cover;
     object-position: center;
@@ -250,7 +250,7 @@
   }
   
   .product-image img {
-    width: auto;
+    width: 300px;
     height: 400px;
     object-fit: cover;
     transition: transform 0.7s ease;
@@ -304,7 +304,7 @@
   }
   
   .philosophy-image img {
-    width: auto;
+    width: 600px;
     height: 500px;
     object-fit: cover;
     object-position: center;
