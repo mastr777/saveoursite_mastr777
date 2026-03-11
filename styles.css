@@ -195,8 +195,8 @@
   }
   
   .hero-image img {
-    width: 100%;
-    height: 100%;
+    width: auto;
+    height: 500px;
     object-fit: cover;
     object-position: center;
   }
@@ -250,8 +250,8 @@
   }
   
   .product-image img {
-    width: 100%;
-    height: 100%;
+    width: auto;
+    height: 400px;
     object-fit: cover;
     transition: transform 0.7s ease;
   }
@@ -304,8 +304,10 @@
   }
   
   .philosophy-image img {
-    aspect-ratio: 1/1;
+    width: auto;
+    height: 500px;
     object-fit: cover;
+    object-position: center;
   }
   
   .quote-box {
